@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/rkw819/Getting%20Started/_apis/build/status/rkw819.hello-world?branchName=master)](https://dev.azure.com/rkw819/Getting%20Started/_build/latest?definitionId=2&branchName=master)
+
 # hello-world
 
 This Ruken Wang. 
